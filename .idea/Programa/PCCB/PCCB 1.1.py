@@ -12,6 +12,7 @@ class MainWindow(wx.Frame):
         self.CreateStatusBar()
 
         #Barra de menu
+        a=5
 
         #Menu Archivo
         filemenu = wx.Menu()
